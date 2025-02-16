@@ -1,0 +1,12 @@
+.anime-img {
+    width: 100%; /* Agar gambar responsive */
+    height: 250px; /* Ukuran tetap untuk gambar */
+    object-fit: cover; /* Potong gambar jika lebih besar */
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    overflow: hidden;
+}
+
+.card-anime-rec {
+    max-width: 540px;
+}
